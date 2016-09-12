@@ -1,5 +1,5 @@
-# DIY - Smart Home Power Relay
-There exists many Relay Modules for IOT, but I could not find a Module that fits in a 60mm European Wallbox and is independent of Protocols or Wireless standards. That’s why my Do-It-Yourself Smart Home Power Relay is born…
+# DIY - Smart Home Power Relay (ESP8266)
+There exists many Relay Modules based on ESP8266 or other Wireless Modules, but I could not find a Module that fits in a European Wallbox and is independent of Protocols or Wireless standards. That’s why I've created my own Solution… <br>
 ![Power,Relay and ESP Module](https://cloud.githubusercontent.com/assets/11909453/18434072/5daa4cb4-78eb-11e6-865b-17c6970bbcd9.png)
 <br> 
 > **Caution: These modules do not have any certifications… In most countries it’s not legal to use it in Production. And: 230V AC can kill !**
@@ -12,7 +12,7 @@ The main goals for this Project are:
 
 Specially the flexibility is something important for me, as I have different scenarios to fulfill and I want to be able to change the Wireless technology if it’s required. This is the reason why the Result is not a single Module, there are currently 3 Modules: Power, Relay and Wireless (currently based on a ESP8266-12) <br>
 <img src="https://cloud.githubusercontent.com/assets/11909453/18434075/5ddd3142-78eb-11e6-8e0a-02ff5e7ba243.png" width="300"> <br>
-With a **size** of 45mm * 35mm * 20mm (Length, Width, Height), the module is small enough to mount it in wall (e.g. behind a power switch).
+With a **size** of 45mm * 35mm * 20mm (Length, Width, Height) for all three modules,  it's small enough to mount it in wall (e.g. behind a power switch).
 
 If you build 10pieces, the price for the material is around **14$ (for all three modules)**. 
 
